@@ -6,4 +6,3 @@
  * Un Anagrama consiste en formar una palabra reordenando TODAS las letras de otra palabra inicial.
  * Dos palabras exactamente iguales no son anagrama.
  *
- */
