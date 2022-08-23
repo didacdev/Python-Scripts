@@ -1,4 +1,4 @@
-#Apect Ratio
+# Apect Ratio
 
 ASPECT RATIO DE UNA IMAGEN
 
